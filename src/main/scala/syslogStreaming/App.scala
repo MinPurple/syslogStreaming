@@ -1,0 +1,6 @@
+package syslogStreaming
+
+/**
+ * Hello world!
+ *
+ */
